@@ -1,0 +1,25 @@
+{
+  "name": "avantasbackend",
+  "version": "1.0.0",
+  "description": "avantas backend on github with developers@takhleq.tech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AmanullahMughal/avantasbackend.git"
+  },
+  "keywords": [
+    "Avantas",
+    "backend",
+    "with",
+    "NodeJS"
+  ],
+  "author": "AmanUllah Mughal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmanullahMughal/avantasbackend/issues"
+  },
+  "homepage": "https://github.com/AmanullahMughal/avantasbackend#readme"
+}
